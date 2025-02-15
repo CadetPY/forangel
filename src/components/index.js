@@ -9,6 +9,8 @@ import Picture from './Picture';
 import Message from './Message';
 import Carousel from './Carousel';
 
+app.use("/src", express.static('./src/'));
+
 export {
   Passcode,
   Question,
