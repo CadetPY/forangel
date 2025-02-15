@@ -1,6 +1,7 @@
 {
   "name": "relationship_website_mobile",
   "private": true,
+  "homepage": ".",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
