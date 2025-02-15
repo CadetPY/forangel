@@ -1,7 +1,7 @@
 {
   "name": "forangel",
   "private": false,
-  "homepage": "https://CadetPY.github.io/forangel",
+  "homepage": ".",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
